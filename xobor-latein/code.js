@@ -41,8 +41,10 @@ function getBrowser()
     sBrowser = "unknown";
     }
 
-    if (sBrowser == "Google Chrome or Chromium") {
-        alert("Diese Webseite funktioniert nicht mit chrome (Google Chrome, Google Chrome Dev, Chromium, Chrome Canary, Chrome Beta)! Bitte verwenden Sie einen anderen Browser.")
+    if (sBrowser == "Google Chrome or Chromium" || sBrowser == "Mozilla Firefox" || sBrowser == "Opera" || sBrowser == "Microsoft Internet Explorer") {
+        console.warn("xobor-latein funktioniert nur auf Microsoft Edge. Bitte verwenden sie die Slim-Variante (www.xobor-latein.de/slim).")
+        console.error("306: xobor-latein doesnt work on " + sBrowser + ".")
+        alert("xobor-latein funktioniert nur auf Microsoft Edge. Bitte verwenden sie die Slim-Variante (www.xobor-latein.de/slim).")
     }
 
 }

@@ -28,3 +28,12 @@ xobor-latein-slim: slim_1.0 patch 1
 
 New Features:
 -Version History.txt added
+
+
+
+Version 1.4
+xobor-latein: v1.0
+xobor-latein-slim: slim_1.0 patch 1
+
+New Features:
+-Updated ReadMe.txt
