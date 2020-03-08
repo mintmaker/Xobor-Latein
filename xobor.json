@@ -1,0 +1,12 @@
+{
+	"xobor-latein": {
+		"name": "Xobor Latein",
+		"version": "v1.0",
+		"url": "www.xobor-latein.de"
+	},
+	"xobor-latein-slim": {
+		"name": "Xobor Latein Slim",
+		"version": "slim_1.0",
+		"url": "www.xobor-latein.de/slim"
+	}
+}

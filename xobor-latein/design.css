@@ -1,0 +1,44 @@
+html
+{
+    background-color: white;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.navbar_text
+{
+    color: chocolate;
+}
+
+main
+{
+    margin-left: 1%;
+    margin-right: 15%;
+    display: block;
+}
+
+.mt-1
+{
+    color: orangered;
+}
+
+.lead
+{
+    text-align: justify;
+}
+
+.xobor_logo
+{
+    width: 5%;
+    height: auto;
+}
+
+.print
+{
+    color: mediumpurple;
+}
+
+.sites_hr
+{
+    background-color: red;
+}
