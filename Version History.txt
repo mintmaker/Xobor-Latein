@@ -1,0 +1,30 @@
+Version 1.0
+xobor-latein: v1.0
+xobor-latein-slim: slim_1.0
+
+
+
+Version 1.1
+xobor-latein: v1.0
+xobor-latein-slim: slim_1.0 patch 1
+
+New Features:
+-Now xobor-latein-slim works on Chrome-Browsers
+
+
+
+Version 1.2
+xobor-latein: v1.0
+xobor-latein-slim: slim_1.0 patch 1
+
+New Features:
+-Updated ReadMe.txt
+
+
+
+Version 1.3
+xobor-latein: v1.0
+xobor-latein-slim: slim_1.0 patch 1
+
+New Features:
+-Version History.txt added
